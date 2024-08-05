@@ -1,0 +1,11 @@
+---
+
+ufw: {}
+  
+ufw_rules:
+  - rule: allow
+    port: ssh
+    proto: tcp
+  
+
+
